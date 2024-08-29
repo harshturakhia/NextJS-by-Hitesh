@@ -1,8 +1,5 @@
-# NextJS-by-Hitesh
-NextJS by Hitesh Chowdhary by Chai and Code
+# Next.js Authentication Project by Hitesh Chawdhary ( Chai and Code )
 
-
-# Next.js Authentication Project
 
 ## Overview
 
